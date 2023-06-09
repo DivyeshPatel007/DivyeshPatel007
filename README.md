@@ -8,7 +8,7 @@ Full Stack Developer and UI/UX Designer
 ---------------------------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [https:divyeshpatel.dev](http://divyeshpatel.dev)
+* 🖥️  See my portfolio at [https://divyeshpatel.dev](http://divyeshpatel.dev)
 * ✉️  You can contact me at [dev.eth007@gmail.com](mailto:dev.eth007@gmail.com)
 * 🧠  I'm learning MERN stack
 * 🤝  I'm open to collaborating on exciting projects as a Full Stack developer and Designer.
